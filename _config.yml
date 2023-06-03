@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ZS Space
-subtitle: 'Long time no see'
-description: 'Stories and some knowledge'
+title: Christine's darkroom
+subtitle: 'How I Learned to Stop Worrying and Love the Bomb'
+description: 'Days of my lives'
 keywords:
-author: Zenith_Seraph 
+author: Christine 
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://zsspace.top
+url: https://qiuligen.top
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
